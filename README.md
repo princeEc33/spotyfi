@@ -1,2 +1,2 @@
 # spotyfi
-Sopty fi clone
+Soptyfi clone
